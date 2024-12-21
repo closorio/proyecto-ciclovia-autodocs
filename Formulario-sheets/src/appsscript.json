@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Bogota",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "AutoCronograma",
+        "libraryId": "1zf5gMGztVUKMNLmVWIQydTWGaR8hVXTz0QFV9I9gvMK3aReT8xdY7oI6",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  }
+}
